@@ -1,0 +1,7 @@
+<select name="lang" [(ngModel)]="currLang" (ngModelChange)="loadLangData()">
+  <option value="en">English</option>
+  <option value="nl">Dutch</option>
+</select>
+
+<div>{{langData.CONTENT_1}}</div>
+<div>{{langData.CONTENT_2}}</div>
