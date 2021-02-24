@@ -1,4 +1,4 @@
 How to run:
-  Install node.js
-  npm install
-  npm start
+  1. Install node.js
+  1. Run npm install
+  1. Run npm start
